@@ -21,7 +21,7 @@ int main()
 	{
 		cout<<"podaj ilość gotówki"<<endl;
 		cin>>kasa;
-		
+
 		if(kasa<400000)
 			i=0;
 		else if(kasa<700000)
@@ -32,7 +32,7 @@ int main()
 			i=3;
 		else
 			i=4;
-		
+
 		cout << "cena: 22" << endl;
 		cout << "jakość: " << quality << endl;
 
@@ -45,11 +45,11 @@ int main()
 			prevWolumen = wolumen;
 			wolumen += 10;
 			unitCost = calcCost( quality, wolumen );
-			totalCost = unitCost * wolumen;	
+			totalCost = unitCost * wolumen;
 		}
 
 		// wolumen=kasa/koszt_jednostkowy[i];
-		
+
 		wolumen = prevWolumen;
 
 		cout << "unitCost: " << unitCost << endl;
