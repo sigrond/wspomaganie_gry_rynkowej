@@ -87,8 +87,8 @@ long double calcCost( unsigned quality, unsigned amount )
 		y = -y;
 
 	return 13.47 + (0.0618182 + (0.000528505 + (0.0000123155 + (7.881216494259816e-8 + 
-	       1.1592739463427665e-10 * (-80 + x)) * (-20 + x)) * (-60 + x)) * (-1 + x)) * (-100 + x) 
-               + y *(1.0/(double)divider);
+	       1.1592739463427665e-10 * (-80 + x)) * (-20 + x)) * (-60 + x)) * (-1 + x)) * (-100 + x)
+               + y * (1.0/(double)divider) - 0.4;
 
 	// return ( ( ( ( a1 * (x-b1) + a2 ) * (x-b2) + a3) * (x-b3) + a4 ) * (x-b4) + a5) * (x-b5) + a6 + y * (1.0/(double)divider);
 }
