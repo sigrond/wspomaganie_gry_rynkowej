@@ -1,0 +1,3553 @@
+runda	4	5
+sprzedaż	68000	116000
+udział	0.168992	0.161992
+wynik firmy	544315.586634	880432.324308
+gotowka	1238584.780000	2119017.100000
+wolumen N	116000	116000
+jakość N	50	50
+cena N	20	20
+reklama tv N	50000	50000
+reklama int N	50000	50000
+reklama mag N	50000	50000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	25000	25169
+udział	0.198935	0.120059
+wynik firmy	197919.450000	196349.744520
+gotowka	497919.450000	694269.190000
+wolumen N	48000	48000
+jakość N	60	60
+cena N	25	25
+reklama tv N	10000	10000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	25000
+udział	0	0.198935
+wynik firmy	0	197919.450000
+gotowka	300000	497919.450000
+wolumen N	25000	27000
+jakość N	60	60
+cena N	21	21
+reklama tv N	10000	10000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	116000	172638
+udział	0.161992	0.144276
+wynik firmy	880432.324308	1545639.429060
+gotowka	2119017.100000	3664656.530000
+wolumen N	184000	0
+jakość N	50	0
+cena N	23	0
+reklama tv N	100000	100000
+reklama int N	100000	100000
+reklama mag N	100000	100000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	25169	68000
+udział	0.120059	0.168992
+wynik firmy	196349.744520	544315.586634
+gotowka	694269.190000	1238584.780000
+wolumen N	68000	68000
+jakość N	50	50
+cena N	20	20
+reklama tv N	20000	20000
+reklama int N	20000	20000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	30000	30000
+udział	0.239998	0.193547
+wynik firmy	251583.840702	221564.455326
+gotowka	625739.410000	847303.870000
+wolumen N	30000	30000
+jakość N	45	45
+cena N	18	18
+reklama tv N	100	100
+reklama int N	1000	1000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	1000	18000
+udział	0.021739	0.183672
+wynik firmy	-2431.936000	76587.511716
+gotowka	297568.060000	374155.570000
+wolumen N	18000	30000
+jakość N	50	55
+cena N	15	20
+reklama tv N	100	100
+reklama int N	800	800
+reklama mag N	500	500
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	1000
+udział	0	0.021739
+wynik firmy	0	-2431.936000
+gotowka	300000	297568.060000
+wolumen N	1000	18000
+jakość N	40	50
+cena N	10	15
+reklama tv N	500	100
+reklama int N	1000	800
+reklama mag N	100	500
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	30000	50000
+udział	0.193547	0.251255
+wynik firmy	221564.455326	445404.608082
+gotowka	847303.870000	1292708.480000
+wolumen N	50000	0
+jakość N	50	0
+cena N	20	0
+reklama tv N	100	100
+reklama int N	3000	3000
+reklama mag N	3000	3000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	18000	30000
+udział	0.183672	0.239998
+wynik firmy	76587.511716	251583.840702
+gotowka	374155.570000	625739.410000
+wolumen N	30000	30000
+jakość N	55	45
+cena N	20	18
+reklama tv N	100	100
+reklama int N	800	1000
+reklama mag N	500	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	92449	169000
+udział	0.218071	0.214074
+wynik firmy	790426.180224	1298968.578072
+gotowka	1693158.520000	2992127.100000
+wolumen N	169000	274520
+jakość N	40	38
+cena N	19.500000	20.500000
+reklama tv N	30000	50000
+reklama int N	30000	50000
+reklama mag N	30000	50000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	30000	42742
+udział	0.235766	0.186608
+wynik firmy	207536.580000	395195.763888
+gotowka	507536.580000	902732.340000
+wolumen N	55000	55000
+jakość N	45	45
+cena N	22	22
+reklama tv N	1000	1000
+reklama int N	1000	1000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	30000
+udział	0	0.235766
+wynik firmy	0	207536.580000
+gotowka	300000	507536.580000
+wolumen N	30000	30000
+jakość N	45	45
+cena N	18	18
+reklama tv N	0	0
+reklama int N	0	0
+reklama mag N	0	0
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	169000	274520
+udział	0.214074	0.262442
+wynik firmy	1298968.578072	2136770.424180
+gotowka	2992127.100000	5128897.520000
+wolumen N	274520	0
+jakość N	38	0
+cena N	20.500000	0
+reklama tv N	50000	50000
+reklama int N	50000	50000
+reklama mag N	50000	50000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	42742	92449
+udział	0.186608	0.218071
+wynik firmy	395195.763888	790426.180224
+gotowka	902732.340000	1693158.520000
+wolumen N	98000	98000
+jakość N	35	35
+cena N	20	20
+reklama tv N	10000	10000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	70000	105000
+udział	0.288319	0.263927
+wynik firmy	320260.800888	519087.165768
+gotowka	906355.880000	1425443.050000
+wolumen N	105000	105000
+jakość N	6	6
+cena N	14.500000	14.500000
+reklama tv N	30000	30000
+reklama int N	30000	30000
+reklama mag N	30000	30000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	28038	50000
+udział	0.206104	0.225448
+wynik firmy	127891.167300	158203.910862
+gotowka	427891.170000	586095.080000
+wolumen N	50000	50000
+jakość N	5	5
+cena N	12	12
+reklama tv N	10000	10000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	28038
+udział	0	0.206104
+wynik firmy	0	127891.167300
+gotowka	300000	427891.170000
+wolumen N	35000	35000
+jakość N	0	0
+cena N	15	15
+reklama tv N	10000	10000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	105000	158694
+udział	0.263927	0.237008
+wynik firmy	519087.165768	946495.095030
+gotowka	1425443.050000	2371938.150000
+wolumen N	160000	0
+jakość N	8	0
+cena N	16	0
+reklama tv N	30000	30000
+reklama int N	30000	30000
+reklama mag N	30000	30000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	28038	50000
+udział	0.206104	0.225448
+wynik firmy	127891.167300	158203.910862
+gotowka	427891.170000	586095.080000
+wolumen N	50000	70000
+jakość N	5	5
+cena N	12	14
+reklama tv N	10000	25000
+reklama int N	10000	25000
+reklama mag N	10000	15000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	30000	0
+udział	0.240964	0
+wynik firmy	129399.120000	-6358.642768
+gotowka	429399.120000	423040.480000
+wolumen N	1000	100000
+jakość N	45	1
+cena N	1000	12
+reklama tv N	100	10000
+reklama int N	3000	10000
+reklama mag N	3000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	30000
+udział	0	0.240964
+wynik firmy	0	129399.120000
+gotowka	300000	429399.120000
+wolumen N	30000	30000
+jakość N	45	45
+cena N	15	15
+reklama tv N	100	100
+reklama int N	3000	3000
+reklama mag N	3000	3000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	46909	91000
+udział	0.106445	0.111647
+wynik firmy	310051.208862	282571.037568
+gotowka	743378.880000	1025949.920000
+wolumen N	91000	91000
+jakość N	13	13
+cena N	12	12
+reklama tv N	5000	5000
+reklama int N	9000	9000
+reklama mag N	8000	8000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	8466	31000
+udział	0.071198	0.132350
+wynik firmy	-20859.418000	154187.092188
+gotowka	279140.580000	433327.670000
+wolumen N	31000	31000
+jakość N	15	15
+cena N	15	15
+reklama tv N	5000	5000
+reklama int N	5000	5000
+reklama mag N	5000	5000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	8466
+udział	0	0.071198
+wynik firmy	0	-20859.418000
+gotowka	300000	279140.580000
+wolumen N	38000	38000
+jakość N	0	0
+cena N	20	20
+reklama tv N	5000	5000
+reklama int N	5000	5000
+reklama mag N	5000	5000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	31000	46909
+udział	0.132350	0.106445
+wynik firmy	154187.092188	310051.208862
+gotowka	433327.670000	743378.880000
+wolumen N	51000	51000
+jakość N	15	15
+cena N	17	17
+reklama tv N	5000	5000
+reklama int N	6000	6000
+reklama mag N	6000	6000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	44269	84544
+udział	0.189000	0.191845
+wynik firmy	398522.940786	808920.287820
+gotowka	908607.700000	1717527.990000
+wolumen N	91000	91000
+jakość N	55	55
+cena N	22.150000	22.150000
+reklama tv N	20000	20000
+reklama int N	20000	20000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	24500
+udział	0	0.206043
+wynik firmy	0	210084.759000
+gotowka	300000	510084.760000
+wolumen N	28000	48500
+jakość N	55	55
+cena N	22.150000	22.190000
+reklama tv N	10000	20000
+reklama int N	10000	20000
+reklama mag N	5000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	164100	288000
+udział	0.201332	0.214431
+wynik firmy	1555194.475314	2527342.032042
+gotowka	3272722.470000	5800064.500000
+wolumen N	288000	0
+jakość N	55	0
+cena N	22.150000	0
+reklama tv N	50000	50000
+reklama int N	50000	50000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	24500	44269
+udział	0.206043	0.189000
+wynik firmy	210084.759000	398522.940786
+gotowka	510084.760000	908607.700000
+wolumen N	48500	53500
+jakość N	55	55
+cena N	22.190000	22.150000
+reklama tv N	20000	20000
+reklama int N	20000	20000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	84544	164100
+udział	0.191845	0.201332
+wynik firmy	808920.287820	1555194.475314
+gotowka	1717527.990000	3272722.470000
+wolumen N	164100	164100
+jakość N	55	55
+cena N	22.150000	22.150000
+reklama tv N	40000	40000
+reklama int N	40000	40000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	56000	74000
+udział	0.392982	0.388451
+wynik firmy	127284.326964	231473.217402
+gotowka	534262.070000	765735.290000
+wolumen N	74000	74000
+jakość N	1	1
+cena N	11	11
+reklama tv N	1	1
+reklama int N	10	10
+reklama mag N	1	1
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	30000
+udział	0	0.240964
+wynik firmy	0	106977.736800
+gotowka	300000	406977.740000
+wolumen N	30000	30000
+jakość N	50	50
+cena N	14	14
+reklama tv N	1	1
+reklama int N	10	10
+reklama mag N	1	1
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	106000	135000
+udział	0.380610	0.331288
+wynik firmy	240383.535894	393619.605138
+gotowka	1006118.830000	1399738.440000
+wolumen N	135000	0
+jakość N	1	0
+cena N	11	0
+reklama tv N	1000	1000
+reklama int N	1000	1000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	30000	56000
+udział	0.240964	0.392982
+wynik firmy	106977.736800	127284.326964
+gotowka	406977.740000	534262.070000
+wolumen N	56000	56000
+jakość N	1	1
+cena N	10	10
+reklama tv N	1	1
+reklama int N	10	10
+reklama mag N	1	1
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	74000	106000
+udział	0.388451	0.380610
+wynik firmy	231473.217402	240383.535894
+gotowka	765735.290000	1006118.830000
+wolumen N	106000	106000
+jakość N	1	1
+cena N	10	10
+reklama tv N	1	1
+reklama int N	10	10
+reklama mag N	1	1
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	48393	93473
+udział	0.230841	0.232297
+wynik firmy	466812.034578	911763.617436
+gotowka	989560.260000	1901323.880000
+wolumen N	104000	180000
+jakość N	55	55
+cena N	22	22
+reklama tv N	20	20000
+reklama int N	20	20000
+reklama mag N	20	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	177663	315000
+udział	0.248104	0.263250
+wynik firmy	1673309.002068	2722297.387968
+gotowka	3574632.880000	6296930.270000
+wolumen N	315000	0
+jakość N	55	0
+cena N	22	0
+reklama tv N	30000	30000
+reklama int N	30000	30000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	23977	48393
+udział	0.190795	0.230841
+wynik firmy	222748.226100	466812.034578
+gotowka	522748.230000	989560.260000
+wolumen N	55000	55000
+jakość N	55	55
+cena N	22	22
+reklama tv N	10	10
+reklama int N	10	10
+reklama mag N	10	10
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	93473	177663
+udział	0.232297	0.248104
+wynik firmy	911763.617436	1673309.002068
+gotowka	1901323.880000	3574632.880000
+wolumen N	180000	315000
+jakość N	55	55
+cena N	22	22
+reklama tv N	20000	30000
+reklama int N	20000	30000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	40351	74932
+udział	0.176169	0.176752
+wynik firmy	364092.839406	714136.036680
+gotowka	847525.800000	1561661.840000
+wolumen N	80000	80000
+jakość N	56	56
+cena N	22.200000	22.200000
+reklama tv N	20000	20000
+reklama int N	20000	20000
+reklama mag N	15000	15000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	22141
+udział	0	0.174003
+wynik firmy	0	183432.964500
+gotowka	300000	483432.960000
+wolumen N	25000	45000
+jakość N	55	55
+cena N	22.100000	22.200000
+reklama tv N	10000	15000
+reklama int N	10000	15000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	22141	40351
+udział	0.174003	0.176169
+wynik firmy	183432.964500	364092.839406
+gotowka	483432.960000	847525.800000
+wolumen N	45000	80000
+jakość N	55	56
+cena N	22.200000	22.200000
+reklama tv N	15000	20000
+reklama int N	15000	20000
+reklama mag N	10000	15000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	74932	148945
+udział	0.176752	0.188671
+wynik firmy	714136.036680	1431468.377424
+gotowka	1561661.840000	2993130.220000
+wolumen N	150000	150000
+jakość N	56	56
+cena N	22.190000	22.190000
+reklama tv N	30000	30000
+reklama int N	30000	30000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	46000	0
+udział	0.207412	0
+wynik firmy	366772.054536	-451829.527834
+gotowka	835468.810000	383639.280000
+wolumen N	76000	36000
+jakość N	55	55
+cena N	30	20
+reklama tv N	20000	0
+reklama int N	50000	0
+reklama mag N	20000	0
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	26000
+udział	0	0.191123
+wynik firmy	0	168696.756000
+gotowka	300000	468696.760000
+wolumen N	26000	26000
+jakość N	55	55
+cena N	19	19
+reklama tv N	10000	10000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	36000	72000
+udział	0.090489	0.107531
+wynik firmy	303979.357008	678995.393904
+gotowka	687618.640000	1366614.030000
+wolumen N	72000	0
+jakość N	55	0
+cena N	21	0
+reklama tv N	0	0
+reklama int N	0	0
+reklama mag N	0	0
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	46000	0
+udział	0.207412	0
+wynik firmy	366772.054536	-451829.527834
+gotowka	835468.810000	383639.280000
+wolumen N	76000	76000
+jakość N	55	55
+cena N	30	30
+reklama tv N	20000	20000
+reklama int N	50000	50000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	0	36000
+udział	0	0.090489
+wynik firmy	-451829.527834	303979.357008
+gotowka	383639.280000	687618.640000
+wolumen N	36000	36000
+jakość N	55	55
+cena N	20	20
+reklama tv N	0	0
+reklama int N	0	0
+reklama mag N	0	0
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	20001	25001
+udział	0.204090	0.200006
+wynik firmy	50068.845090	85665.245544
+gotowka	358475.730000	444140.980000
+wolumen N	25001	30001
+jakość N	100	100
+cena N	18	17
+reklama tv N	100	1000
+reklama int N	100	2000
+reklama mag N	100	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	10001
+udział	0	0.217408
+wynik firmy	0	8406.876276
+gotowka	300000	308406.880000
+wolumen N	10001	20001
+jakość N	100	100
+cena N	15	17
+reklama tv N	100	100
+reklama int N	100	100
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	30001	37001
+udział	0.193554	0.185934
+wynik firmy	79656.631038	132125.385600
+gotowka	523797.610000	655923
+wolumen N	37001	0
+jakość N	100	0
+cena N	18	0
+reklama tv N	1000	1000
+reklama int N	2000	2000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	10001	20001
+udział	0.217408	0.204090
+wynik firmy	8406.876276	50068.845090
+gotowka	308406.880000	358475.730000
+wolumen N	20001	25001
+jakość N	100	100
+cena N	17	18
+reklama tv N	100	100
+reklama int N	100	100
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	25001	30001
+udział	0.200006	0.193554
+wynik firmy	85665.245544	79656.631038
+gotowka	444140.980000	523797.610000
+wolumen N	30001	37001
+jakość N	100	100
+cena N	17	18
+reklama tv N	1000	1000
+reklama int N	2000	2000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	27000
+udział	0	0.214850
+wynik firmy	0	195129.810000
+gotowka	300000	495129.810000
+wolumen N	27000	46000
+jakość N	60	64
+cena N	20	21.500000
+reklama tv N	15000	20000
+reklama int N	4000	8000
+reklama mag N	10000	15000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	46000	86000
+udział	0.219426	0.213725
+wynik firmy	400146.308766	810021.843432
+gotowka	895276.120000	1705297.960000
+wolumen N	86000	86000
+jakość N	65	65
+cena N	22	22
+reklama tv N	25000	25000
+reklama int N	10000	10000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	86000	162000
+udział	0.213725	0.226230
+wynik firmy	810021.843432	1506165.092856
+gotowka	1705297.960000	3211463.050000
+wolumen N	162000	288000
+jakość N	65	55
+cena N	22	21.500000
+reklama tv N	25000	35000
+reklama int N	10000	10000
+reklama mag N	20000	25000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	162000	288000
+udział	0.226230	0.240686
+wynik firmy	1506165.092856	2415662.824230
+gotowka	3211463.050000	5627125.870000
+wolumen N	288000	0
+jakość N	55	0
+cena N	21.500000	0
+reklama tv N	35000	35000
+reklama int N	10000	10000
+reklama mag N	25000	25000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	27000	46000
+udział	0.214850	0.219426
+wynik firmy	195129.810000	400146.308766
+gotowka	495129.810000	895276.120000
+wolumen N	46000	86000
+jakość N	64	65
+cena N	21.500000	22
+reklama tv N	20000	25000
+reklama int N	8000	10000
+reklama mag N	15000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	15000	25000
+udział	0.153060	0.199998
+wynik firmy	17033.360724	41287.192020
+gotowka	312530.700000	353817.890000
+wolumen N	25000	25000
+jakość N	75	75
+cena N	13.500000	13.500000
+reklama tv N	10000	10000
+reklama int N	3000	3000
+reklama mag N	5000	5000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	25000	30000
+udział	0.199998	0.193547
+wynik firmy	41287.192020	79296.629454
+gotowka	353817.890000	433114.520000
+wolumen N	30000	30000
+jakość N	80	80
+cena N	15	15
+reklama tv N	13000	13000
+reklama int N	3000	3000
+reklama mag N	5000	5000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	30000	37000
+udział	0.193547	0.185929
+wynik firmy	79296.629454	100113.465672
+gotowka	433114.520000	533227.990000
+wolumen N	37000	0
+jakość N	80	0
+cena N	15	0
+reklama tv N	17000	17000
+reklama int N	3000	3000
+reklama mag N	8000	8000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	27000
+udział	0	0.216867
+wynik firmy	0	65274.984000
+gotowka	300000	365274.980000
+wolumen N	27000	27000
+jakość N	55	55
+cena N	14	14
+reklama tv N	20000	20000
+reklama int N	4000	4000
+reklama mag N	8000	8000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	34000	44000
+udział	0.238596	0.230971
+wynik firmy	92539.988028	201517.711542
+gotowka	457814.970000	659332.680000
+wolumen N	44000	60000
+jakość N	55	55
+cena N	16	16.500000
+reklama tv N	22000	22000
+reklama int N	4000	4000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	44000	65000
+udział	0.230971	0.233393
+wynik firmy	201517.711542	335466.328248
+gotowka	659332.680000	994799.010000
+wolumen N	65000	100000
+jakość N	55	55
+cena N	16.500000	18
+reklama tv N	25000	27000
+reklama int N	8000	10000
+reklama mag N	15000	15000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	65000	100000
+udział	0.233393	0.245399
+wynik firmy	335466.328248	653757.431886
+gotowka	994799.010000	1648556.440000
+wolumen N	100000	0
+jakość N	55	0
+cena N	18	0
+reklama tv N	27000	27000
+reklama int N	10000	10000
+reklama mag N	15000	15000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	27000	34000
+udział	0.216867	0.238596
+wynik firmy	65274.984000	92539.988028
+gotowka	365274.980000	457814.970000
+wolumen N	34000	44000
+jakość N	55	55
+cena N	14.100000	16
+reklama tv N	22000	22000
+reklama int N	4000	4000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	54395	99114
+udział	0.237484	0.233793
+wynik firmy	438096.581856	911556.392544
+gotowka	969857.040000	1881413.430000
+wolumen N	102000	102000
+jakość N	48	48
+cena N	21	21
+reklama tv N	15000	15000
+reklama int N	5000	5000
+reklama mag N	8000	8000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	99114	185000
+udział	0.233793	0.234342
+wynik firmy	911556.392544	1622916.652698
+gotowka	1881413.430000	3504330.080000
+wolumen N	185000	315000
+jakość N	51	51
+cena N	21	21.100000
+reklama tv N	25000	25000
+reklama int N	8000	10000
+reklama mag N	13000	14000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	185000	315000
+udział	0.234342	0.301141
+wynik firmy	1622916.652698	2545612.761888
+gotowka	3504330.080000	6049942.840000
+wolumen N	315000	0
+jakość N	51	0
+cena N	21.100000	0
+reklama tv N	25000	25000
+reklama int N	10000	10000
+reklama mag N	14000	14000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	29007
+udział	0	0.227962
+wynik firmy	0	231760.460250
+gotowka	300000	531760.460000
+wolumen N	30000	57000
+jakość N	40	34
+cena N	20	19.500000
+reklama tv N	10000	15000
+reklama int N	3000	5000
+reklama mag N	5000	7000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	27000
+udział	0	0.198474
+wynik firmy	0	175294.692000
+gotowka	300000	475294.690000
+wolumen N	27000	47000
+jakość N	50	50
+cena N	19	21
+reklama tv N	20000	20000
+reklama int N	5000	5000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	45781	52787
+udział	0.206424	0.217421
+wynik firmy	398565.166734	452775.214746
+gotowka	873859.860000	1326635.070000
+wolumen N	89000	131000
+jakość N	50	60
+cena N	24	22
+reklama tv N	25000	25000
+reklama int N	10000	10000
+reklama mag N	15000	15000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	52787	129840
+udział	0.217421	0.326365
+wynik firmy	452775.214746	1243788.780402
+gotowka	1326635.070000	2570423.850000
+wolumen N	131000	233000
+jakość N	60	61
+cena N	22	21
+reklama tv N	25000	45000
+reklama int N	10000	10000
+reklama mag N	15000	30000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	129840	233000
+udział	0.326365	0.347983
+wynik firmy	1243788.780402	1881822.319110
+gotowka	2570423.850000	4452246.170000
+wolumen N	233000	0
+jakość N	61	0
+cena N	21	0
+reklama tv N	45000	45000
+reklama int N	10000	10000
+reklama mag N	30000	30000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	27000	45781
+udział	0.198474	0.206424
+wynik firmy	175294.692000	398565.166734
+gotowka	475294.690000	873859.860000
+wolumen N	47000	47000
+jakość N	50	50
+cena N	21	21
+reklama tv N	20000	20000
+reklama int N	5000	5000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	73187	0
+udział	0.908467	0
+wynik firmy	650850.572088	-814610.907510
+gotowka	1555582.150000	740971.240000
+wolumen N	150000	85000
+jakość N	50	20
+cena N	35	23
+reklama tv N	40000	10000
+reklama int N	25000	10000
+reklama mag N	25000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	14865	0
+udział	0.124015	0
+wynik firmy	63261.399978	-228259.736232
+gotowka	427985.880000	199726.140000
+wolumen N	25000	25000
+jakość N	100	100
+cena N	30	30
+reklama tv N	30000	30000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	10891
+udział	0	0.143508
+wynik firmy	0	64724.475600
+gotowka	300000	364724.480000
+wolumen N	15000	15000
+jakość N	100	100
+cena N	25	25
+reklama tv N	0	0
+reklama int N	5000	5000
+reklama mag N	5000	5000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	55000	73187
+udział	0.858905	0.908467
+wynik firmy	400620.078900	650850.572088
+gotowka	904731.580000	1555582.150000
+wolumen N	95000	150000
+jakość N	40	50
+cena N	22	35
+reklama tv N	20000	40000
+reklama int N	15000	25000
+reklama mag N	15000	25000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	19494	22518
+udział	0.081738	0.273310
+wynik firmy	108092.165904	163906.755066
+gotowka	307818.310000	471725.070000
+wolumen N	35000	0
+jakość N	20	0
+cena N	20	0
+reklama tv N	0	0
+reklama int N	0	0
+reklama mag N	0	0
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	10891	14865
+udział	0.143508	0.124015
+wynik firmy	64724.475600	63261.399978
+gotowka	364724.480000	427985.880000
+wolumen N	20000	20000
+jakość N	100	100
+cena N	25	25
+reklama tv N	30000	30000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	0	24656
+udział	0	0.451112
+wynik firmy	-814610.907510	64498.707864
+gotowka	740971.240000	805469.950000
+wolumen N	85000	0
+jakość N	20	0
+cena N	23	0
+reklama tv N	10000	10000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	20000
+udział	0	0.235294
+wynik firmy	0	83627.640000
+gotowka	300000	383627.640000
+wolumen N	20000	20000
+jakość N	13	13
+cena N	15	15
+reklama tv N	10000	10000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	0	19494
+udział	0	0.081738
+wynik firmy	-228259.736232	108092.165904
+gotowka	199726.140000	307818.310000
+wolumen N	25000	25000
+jakość N	5	5
+cena N	16	16
+reklama tv N	0	0
+reklama int N	0	0
+reklama mag N	0	0
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	29625	55000
+udział	0.856115	0.858905
+wynik firmy	204111.495000	400620.078900
+gotowka	504111.500000	904731.580000
+wolumen N	55000	95000
+jakość N	28	40
+cena N	18	22
+reklama tv N	10000	20000
+reklama int N	5000	15000
+reklama mag N	5000	15000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	20000	0
+udział	0.235294	0
+wynik firmy	83627.640000	-494718.955096
+gotowka	383627.640000	-112372.360000
+wolumen N	50000	0
+jakość N	15	0
+cena N	15	0
+reklama tv N	30000	30000
+reklama int N	30000	30000
+reklama mag N	30000	30000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	29625
+udział	0	0.856115
+wynik firmy	0	204111.495000
+gotowka	300000	504111.500000
+wolumen N	30000	30000
+jakość N	25	25
+cena N	18	18
+reklama tv N	10000	10000
+reklama int N	4000	4000
+reklama mag N	4000	4000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	27000	37000
+udział	0.137056	0.147623
+wynik firmy	129189.797208	276228.115488
+gotowka	487176.080000	763404.200000
+wolumen N	37000	62000
+jakość N	40	38
+cena N	20	21
+reklama tv N	30000	20000
+reklama int N	18000	15000
+reklama mag N	15000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	37000	53097
+udział	0.147623	0.130270
+wynik firmy	276228.115488	457006.294620
+gotowka	763404.200000	1220410.490000
+wolumen N	62000	92000
+jakość N	38	36
+cena N	21	21
+reklama tv N	20000	60000
+reklama int N	15000	30000
+reklama mag N	10000	21000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	20000	27000
+udział	0.173067	0.137056
+wynik firmy	57986.280000	129189.797208
+gotowka	357986.280000	487176.080000
+wolumen N	27000	27000
+jakość N	70	70
+cena N	19	19
+reklama tv N	30000	30000
+reklama int N	18000	18000
+reklama mag N	24000	24000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	53097	81205
+udział	0.130270	0.118819
+wynik firmy	457006.294620	683238.142314
+gotowka	1220410.490000	1903648.630000
+wolumen N	92000	0
+jakość N	36	0
+cena N	21	0
+reklama tv N	60000	60000
+reklama int N	30000	30000
+reklama mag N	21000	21000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	20000
+udział	0	0.173067
+wynik firmy	0	57986.280000
+gotowka	300000	357986.280000
+wolumen N	20000	27000
+jakość N	60	70
+cena N	17	19
+reklama tv N	30000	30000
+reklama int N	15000	15000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	40000	66005
+udział	0.164608	0.166454
+wynik firmy	217646.416800	456687.780912
+gotowka	634234.420000	1090922.200000
+wolumen N	66005	66005
+jakość N	26	26
+cena N	18	18
+reklama tv N	30000	30000
+reklama int N	22000	22000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	66005	109930
+udział	0.166454	0.173152
+wynik firmy	456687.780912	845813.053260
+gotowka	1090922.200000	1936735.250000
+wolumen N	121005	121005
+jakość N	22	22
+cena N	19	19
+reklama tv N	30000	30000
+reklama int N	23000	23000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	29000	40000
+udział	0.182208	0.164608
+wynik firmy	116587.998000	217646.416800
+gotowka	416588	634234.420000
+wolumen N	40000	40000
+jakość N	40	40
+cena N	17	17
+reklama tv N	20000	20000
+reklama int N	20000	20000
+reklama mag N	5000	5000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	109930	164105
+udział	0.173152	0.170335
+wynik firmy	845813.053260	1226156.344650
+gotowka	1936735.250000	3162891.590000
+wolumen N	201125	0
+jakość N	21	0
+cena N	19.990000	0
+reklama tv N	50000	50000
+reklama int N	31000	31000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	29000
+udział	0	0.182208
+wynik firmy	0	116587.998000
+gotowka	300000	416588
+wolumen N	29000	29000
+jakość N	24	24
+cena N	15	15
+reklama tv N	10000	10000
+reklama int N	20000	20000
+reklama mag N	5000	5000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	11385	13279
+udział	0.149588	0.107274
+wynik firmy	67287.775356	90144.664614
+gotowka	317579.490000	407724.150000
+wolumen N	15000	15000
+jakość N	20	30
+cena N	18	19
+reklama tv N	4000	14000
+reklama int N	1000	1000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	13279	14074
+udział	0.107274	0.080300
+wynik firmy	90144.664614	101263.194090
+gotowka	407724.150000	508987.340000
+wolumen N	15000	15000
+jakość N	30	30
+cena N	19	19
+reklama tv N	14000	14000
+reklama int N	1000	1000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	5000	11385
+udział	0.126454	0.149588
+wynik firmy	-49708.290000	67287.775356
+gotowka	250291.710000	317579.490000
+wolumen N	20000	20000
+jakość N	10	10
+cena N	19	19
+reklama tv N	0	0
+reklama int N	1000	1000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	14074	23727
+udział	0.080300	0.095043
+wynik firmy	101263.194090	173734.595874
+gotowka	508987.340000	682721.940000
+wolumen N	30000	0
+jakość N	35	0
+cena N	21	0
+reklama tv N	24000	24000
+reklama int N	11000	11000
+reklama mag N	11000	11000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	34389	62805
+udział	0.155175	0.195984
+wynik firmy	202140.597978	426098.871738
+gotowka	656464.830000	1082563.700000
+wolumen N	65000	65000
+jakość N	24	24
+cena N	18.530000	18.530000
+reklama tv N	63000	63000
+reklama int N	22000	22000
+reklama mag N	13000	13000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	62805	100000
+udział	0.195984	0.193160
+wynik firmy	426098.871738	867537.395820
+gotowka	1082563.700000	1950101.100000
+wolumen N	100000	100000
+jakość N	65	65
+cena N	21.530000	21.530000
+reklama tv N	65000	65000
+reklama int N	24000	24000
+reklama mag N	16000	16000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	30167	34389
+udział	0.182563	0.155175
+wynik firmy	154324.233450	202140.597978
+gotowka	454324.230000	656464.830000
+wolumen N	52000	65000
+jakość N	10	24
+cena N	18.530000	18.530000
+reklama tv N	23000	63000
+reklama int N	12000	22000
+reklama mag N	12000	13000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	100000	175000
+udział	0.193160	0.196300
+wynik firmy	867537.395820	1488051.863460
+gotowka	1950101.100000	3438152.960000
+wolumen N	175000	0
+jakość N	65	0
+cena N	21.530000	0
+reklama tv N	85000	85000
+reklama int N	27000	27000
+reklama mag N	18000	18000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	30167
+udział	0	0.182563
+wynik firmy	0	154324.233450
+gotowka	300000	454324.230000
+wolumen N	31000	52000
+jakość N	12	10
+cena N	16	18.530000
+reklama tv N	20000	23000
+reklama int N	11000	12000
+reklama mag N	10000	12000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	50000	48372
+udział	0.268588	0.174055
+wynik firmy	302567.278014	341490.740022
+gotowka	788564.770000	1130055.510000
+wolumen N	80000	80000
+jakość N	15	15
+cena N	20	20
+reklama tv N	10000	10000
+reklama int N	15000	15000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	48372	31971
+udział	0.174055	0.079376
+wynik firmy	341490.740022	216565.456086
+gotowka	1130055.510000	1346620.970000
+wolumen N	75000	0
+jakość N	60	0
+cena N	26	0
+reklama tv N	30000	30000
+reklama int N	25000	25000
+reklama mag N	15000	15000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	20000	30000
+udział	0.253136	0.224834
+wynik firmy	44475.480000	141522.008328
+gotowka	344475.480000	485997.490000
+wolumen N	30000	30000
+jakość N	30	30
+cena N	16	16
+reklama tv N	10000	10000
+reklama int N	16000	16000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	20000
+udział	0	0.253136
+wynik firmy	0	44475.480000
+gotowka	300000	344475.480000
+wolumen N	20000	20000
+jakość N	23	23
+cena N	15	15
+reklama tv N	10000	10000
+reklama int N	26000	26000
+reklama mag N	30000	30000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	30000	50000
+udział	0.224834	0.268588
+wynik firmy	141522.008328	302567.278014
+gotowka	485997.490000	788564.770000
+wolumen N	50000	50000
+jakość N	32	32
+cena N	17	17
+reklama tv N	10000	10000
+reklama int N	16000	16000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	37582	70000
+udział	0.155566	0.185168
+wynik firmy	239552.012250	536347.935936
+gotowka	668865.760000	1205213.700000
+wolumen N	70000	70000
+jakość N	37	37
+cena N	19	19
+reklama tv N	20000	20000
+reklama int N	17000	17000
+reklama mag N	9000	9000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	70000	125000
+udział	0.185168	0.200175
+wynik firmy	536347.935936	948354.335820
+gotowka	1205213.700000	2153568.040000
+wolumen N	125000	125000
+jakość N	33	33
+cena N	19	19
+reklama tv N	60000	60000
+reklama int N	19000	19000
+reklama mag N	9000	9000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	27000	37582
+udział	0.167371	0.155566
+wynik firmy	129313.746000	239552.012250
+gotowka	429313.750000	668865.760000
+wolumen N	50000	70000
+jakość N	11	37
+cena N	18	19
+reklama tv N	10000	20000
+reklama int N	13000	17000
+reklama mag N	10000	9000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	125000	0
+udział	0.200175	0
+wynik firmy	948354.335820	-2209752.115656
+gotowka	2153568.040000	-56831.960000
+wolumen N	205000	0
+jakość N	38	0
+cena N	19	0
+reklama tv N	160000	160000
+reklama int N	32000	32000
+reklama mag N	19000	19000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	27000
+udział	0	0.167371
+wynik firmy	0	129313.746000
+gotowka	300000	429313.750000
+wolumen N	27000	50000
+jakość N	30	10
+cena N	17	18
+reklama tv N	20000	10000
+reklama int N	23000	13000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	35000	55000
+udział	0.196629	0.203417
+wynik firmy	275344.152930	353943.838620
+gotowka	699561.700000	1053505.540000
+wolumen N	55000	55000
+jakość N	50	50
+cena N	20	20
+reklama tv N	100000	100000
+reklama int N	23000	23000
+reklama mag N	31000	31000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	55000	100000
+udział	0.203417	0.219394
+wynik firmy	353943.838620	879004.169244
+gotowka	1053505.540000	1932509.710000
+wolumen N	100000	100000
+jakość N	55	55
+cena N	21	21
+reklama tv N	50000	50000
+reklama int N	11000	11000
+reklama mag N	15000	15000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	25000	35000
+udział	0.217391	0.196629
+wynik firmy	124217.550000	275344.152930
+gotowka	424217.550000	699561.700000
+wolumen N	35000	35000
+jakość N	40	40
+cena N	20	20
+reklama tv N	20000	20000
+reklama int N	20000	20000
+reklama mag N	0	0
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	100000	149637
+udział	0.219394	0.210486
+wynik firmy	879004.169244	1370340.530406
+gotowka	1932509.710000	3302850.240000
+wolumen N	180000	0
+jakość N	55	0
+cena N	23	0
+reklama tv N	70000	70000
+reklama int N	15000	15000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	25000
+udział	0	0.217391
+wynik firmy	0	124217.550000
+gotowka	300000	424217.550000
+wolumen N	25000	25000
+jakość N	40	40
+cena N	17	17
+reklama tv N	10000	10000
+reklama int N	16000	16000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	55000	70000
+udział	0.134939	0.102424
+wynik firmy	246705.733314	348016.761792
+gotowka	1009138.720000	1357155.480000
+wolumen N	70000	0
+jakość N	10	0
+cena N	13.500000	0
+reklama tv N	300	300
+reklama int N	800	800
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	50000	30000
+udział	0.253807	0.119694
+wynik firmy	207951.239412	158916.329676
+gotowka	603516.660000	762432.990000
+wolumen N	30000	30000
+jakość N	10	10
+cena N	14	14
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	30000
+udział	0	0.259601
+wynik firmy	0	95565.420000
+gotowka	300000	395565.420000
+wolumen N	30000	30000
+jakość N	10	10
+cena N	12	12
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	30000	50000
+udział	0.259601	0.253807
+wynik firmy	95565.420000	207951.239412
+gotowka	395565.420000	603516.660000
+wolumen N	50000	30000
+jakość N	10	10
+cena N	13	13
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	30000	55000
+udział	0.119694	0.134939
+wynik firmy	158916.329676	246705.733314
+gotowka	762432.990000	1009138.720000
+wolumen N	55000	55000
+jakość N	10	10
+cena N	13	13
+reklama tv N	300	300
+reklama int N	800	800
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	90000	170000
+udział	0.173844	0.190691
+wynik firmy	552439.834308	1223240.030046
+gotowka	1593514.610000	2816754.640000
+wolumen N	170000	0
+jakość N	20	0
+cena N	18	0
+reklama tv N	20000	20000
+reklama int N	20000	20000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	40000
+udział	0	0.242069
+wynik firmy	0	113571.720000
+gotowka	300000	413571.720000
+wolumen N	40000	40000
+jakość N	1	1
+cena N	11	11
+reklama tv N	2000	2000
+reklama int N	2000	2000
+reklama mag N	2000	2000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	40000	42343
+udział	0.242069	0.191066
+wynik firmy	113571.720000	241240.605642
+gotowka	413571.720000	654812.330000
+wolumen N	55500	55500
+jakość N	1	1
+cena N	15.500000	15.500000
+reklama tv N	1000	1000
+reklama int N	2000	2000
+reklama mag N	2000	2000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	65048	90000
+udział	0.202983	0.173844
+wynik firmy	386262.448038	552439.834308
+gotowka	1041074.780000	1593514.610000
+wolumen N	90000	90000
+jakość N	20	20
+cena N	16	16
+reklama tv N	10000	10000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	42343	65048
+udział	0.191066	0.202983
+wynik firmy	241240.605642	386262.448038
+gotowka	654812.330000	1041074.780000
+wolumen N	90000	90000
+jakość N	1	1
+cena N	16	16
+reklama tv N	2000	2000
+reklama int N	4000	4000
+reklama mag N	2000	2000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	19	5020
+udział	0.000250	0.040554
+wynik firmy	-2448.760116	9118.242228
+gotowka	297057.580000	306175.820000
+wolumen N	5020	5020
+jakość N	1	1
+cena N	10	10
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	99	19
+udział	0.002504	0.000250
+wynik firmy	-493.662000	-2448.760116
+gotowka	299506.340000	297057.580000
+wolumen N	20	20
+jakość N	40	40
+cena N	20	20
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	10020	10020
+udział	0.057170	0.040137
+wynik firmy	19846.203012	37043.128332
+gotowka	326022.020000	363065.150000
+wolumen N	10020	0
+jakość N	1	0
+cena N	12	0
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	120910	114774
+udział	0.190447	0.119131
+wynik firmy	692234.950662	802604.754432
+gotowka	1705336.620000	2507941.370000
+wolumen N	150000	0
+jakość N	10	0
+cena N	18	0
+reklama tv N	10000	10000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	40000	55000
+udział	0.251321	0.226336
+wynik firmy	114687.900000	206248.091940
+gotowka	414687.900000	620935.990000
+wolumen N	55000	55000
+jakość N	3	3
+cena N	12	12
+reklama tv N	500	500
+reklama int N	500	500
+reklama mag N	500	500
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	85000	120910
+udział	0.214357	0.190447
+wynik firmy	392165.679114	692234.950662
+gotowka	1013101.670000	1705336.620000
+wolumen N	130000	130000
+jakość N	5	5
+cena N	15	15
+reklama tv N	1000	1000
+reklama int N	1000	1000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	55000	85000
+udział	0.226336	0.214357
+wynik firmy	206248.091940	392165.679114
+gotowka	620935.990000	1013101.670000
+wolumen N	85000	85000
+jakość N	3	3
+cena N	13	13
+reklama tv N	500	500
+reklama int N	500	500
+reklama mag N	500	500
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	40000
+udział	0	0.251321
+wynik firmy	0	114687.900000
+gotowka	300000	414687.900000
+wolumen N	40000	40000
+jakość N	2	2
+cena N	11	11
+reklama tv N	500	500
+reklama int N	500	500
+reklama mag N	500	500
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	0
+udział	0	0
+wynik firmy	0	-22785.770400
+gotowka	300000	277214.230000
+wolumen N	5050	5050
+jakość N	1	1
+cena N	110	110
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	10050	15050
+udział	0.053986	0.054154
+wynik firmy	35399.821878	55500.108930
+gotowka	325435.550000	380935.660000
+wolumen N	15050	15050
+jakość N	1	1
+cena N	12	12
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	0	5050
+udział	0	0.037847
+wynik firmy	-22785.770400	12821.501178
+gotowka	277214.230000	290035.730000
+wolumen N	5050	5050
+jakość N	1	1
+cena N	11	11
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	15050	20050
+udział	0.054154	0.049779
+wynik firmy	55500.108930	93160.780776
+gotowka	380935.660000	474096.440000
+wolumen N	20050	0
+jakość N	1	0
+cena N	13	0
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	5050	10050
+udział	0.037847	0.053986
+wynik firmy	12821.501178	35399.821878
+gotowka	290035.730000	325435.550000
+wolumen N	10050	10050
+jakość N	1	1
+cena N	12	12
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	75000	100000
+udział	0.198394	0.160140
+wynik firmy	289537.124400	570408.048432
+gotowka	834791.120000	1405199.170000
+wolumen N	100000	100000
+jakość N	13	13
+cena N	15	15
+reklama tv N	1000	1000
+reklama int N	1000	1000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	100000	165000
+udział	0.160140	0.207103
+wynik firmy	570408.048432	1012809.379662
+gotowka	1405199.170000	2418008.550000
+wolumen N	165000	0
+jakość N	13	0
+cena N	16	0
+reklama tv N	2000	2000
+reklama int N	2000	2000
+reklama mag N	2000	2000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	30000	52000
+udział	0.185968	0.215248
+wynik firmy	86891.940000	158362.060284
+gotowka	386891.940000	545254
+wolumen N	52000	52000
+jakość N	1	1
+cena N	11	11
+reklama tv N	300	300
+reklama int N	800	800
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	52000	75000
+udział	0.215248	0.198394
+wynik firmy	158362.060284	289537.124400
+gotowka	545254	834791.120000
+wolumen N	75000	75000
+jakość N	2	2
+cena N	12	12
+reklama tv N	300	300
+reklama int N	800	800
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	30000
+udział	0	0.185968
+wynik firmy	0	86891.940000
+gotowka	300000	386891.940000
+wolumen N	30000	30000
+jakość N	1	1
+cena N	11	11
+reklama tv N	300	300
+reklama int N	800	800
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	5000	10000
+udział	0.043478	0.056180
+wynik firmy	9213.920000	19955.836512
+gotowka	309213.920000	329169.760000
+wolumen N	10000	15000
+jakość N	1	1
+cena N	10	10
+reklama tv N	300	300
+reklama int N	1000	800
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	15000	30000
+udział	0.055477	0.065818
+wynik firmy	31374.690336	65362.680270
+gotowka	360544.450000	425907.130000
+wolumen N	30000	30000
+jakość N	1	1
+cena N	10	10
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	30000	50000
+udział	0.065818	0.070332
+wynik firmy	65362.680270	154183.846518
+gotowka	425907.130000	580090.980000
+wolumen N	50000	0
+jakość N	1	0
+cena N	11	0
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	5000
+udział	0	0.043478
+wynik firmy	0	9213.920000
+gotowka	300000	309213.920000
+wolumen N	5000	5000
+jakość N	1	1
+cena N	10	10
+reklama tv N	300	300
+reklama int N	1000	1000
+reklama mag N	100	100
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	30450	60478
+udział	0.256082	0.258201
+wynik firmy	274982.833800	562998.422610
+gotowka	574982.830000	1137981.250000
+wolumen N	60478	120506
+jakość N	55	50
+cena N	21	21
+reklama tv N	2000	4500
+reklama int N	2000	2500
+reklama mag N	2000	2500
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	119887	218970
+udział	0.272045	0.268652
+wynik firmy	1119834.467766	1905031.218492
+gotowka	2257815.720000	4162846.940000
+wolumen N	221225	368016
+jakość N	46	46
+cena N	21	21
+reklama tv N	12500	35500
+reklama int N	3500	15500
+reklama mag N	3500	15500
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	30450
+udział	0	0.256082
+wynik firmy	0	274982.833800
+gotowka	300000	574982.830000
+wolumen N	30450	30450
+jakość N	55	55
+cena N	21	21
+reklama tv N	1000	1000
+reklama int N	1000	1000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	218970	368016
+udział	0.268652	0.274007
+wynik firmy	1905031.218492	2888088.639300
+gotowka	4162846.940000	7050935.580000
+wolumen N	368016	0
+jakość N	46	0
+cena N	21	0
+reklama tv N	35500	35500
+reklama int N	15500	15500
+reklama mag N	15500	15500
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	60478	119887
+udział	0.258201	0.272045
+wynik firmy	562998.422610	1119834.467766
+gotowka	1137981.250000	2257815.720000
+wolumen N	120506	221225
+jakość N	50	46
+cena N	21	21
+reklama tv N	4500	12500
+reklama int N	2500	3500
+reklama mag N	2500	3500
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	165000	290000
+udział	0.230420	0.242357
+wynik firmy	1486079.270622	2382314.103144
+gotowka	3151142.040000	5533456.140000
+wolumen N	290000	0
+jakość N	45	0
+cena N	21	0
+reklama tv N	20000	20000
+reklama int N	20000	20000
+reklama mag N	20000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	25000	45000
+udział	0.198935	0.214656
+wynik firmy	177669.450000	394739.055270
+gotowka	477669.450000	872408.510000
+wolumen N	45000	85000
+jakość N	67	55
+cena N	21	21
+reklama tv N	5000	5000
+reklama int N	4000	6000
+reklama mag N	1000	3000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	25000
+udział	0	0.198935
+wynik firmy	0	177669.450000
+gotowka	300000	477669.450000
+wolumen N	25000	45000
+jakość N	73	67
+cena N	20	21
+reklama tv N	10000	5000
+reklama int N	4000	4000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	85000	165000
+udział	0.211240	0.230420
+wynik firmy	792654.263586	1486079.270622
+gotowka	1665062.770000	3151142.040000
+wolumen N	165000	285000
+jakość N	50	50
+cena N	21	21
+reklama tv N	10000	20000
+reklama int N	10000	20000
+reklama mag N	10000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	45000	85000
+udział	0.214656	0.211240
+wynik firmy	394739.055270	792654.263586
+gotowka	872408.510000	1665062.770000
+wolumen N	85000	165000
+jakość N	55	50
+cena N	21	21
+reklama tv N	5000	10000
+reklama int N	6000	10000
+reklama mag N	3000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	15000	25000
+udział	0.326080	0.255099
+wynik firmy	6948.990000	28744.420914
+gotowka	306948.990000	335693.410000
+wolumen N	25000	25000
+jakość N	65	65
+cena N	13	13
+reklama tv N	20000	20000
+reklama int N	10000	10000
+reklama mag N	4000	4000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	15000
+udział	0	0.326080
+wynik firmy	0	6948.990000
+gotowka	300000	306948.990000
+wolumen N	15000	15000
+jakość N	70	70
+cena N	13	13
+reklama tv N	20000	20000
+reklama int N	7000	7000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	25000	25000
+udział	0.255099	0.199998
+wynik firmy	28744.420914	38800.299726
+gotowka	335693.410000	374493.710000
+wolumen N	25000	25000
+jakość N	75	75
+cena N	14	14
+reklama tv N	20000	20000
+reklama int N	10000	10000
+reklama mag N	4000	4000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	30000	40000
+udział	0.193547	0.201004
+wynik firmy	68537.034306	104731.253964
+gotowka	443030.740000	547761.990000
+wolumen N	40000	0
+jakość N	65	0
+cena N	14	0
+reklama tv N	20000	20000
+reklama int N	10000	10000
+reklama mag N	4000	4000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	25000	30000
+udział	0.199998	0.193547
+wynik firmy	38800.299726	68537.034306
+gotowka	374493.710000	443030.740000
+wolumen N	30000	40000
+jakość N	65	65
+cena N	14	14
+reklama tv N	20000	20000
+reklama int N	10000	10000
+reklama mag N	4000	4000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	35000	50000
+udział	0.245614	0.262467
+wynik firmy	140234.368500	253502.388882
+gotowka	512931.870000	766434.260000
+wolumen N	50000	80000
+jakość N	55	55
+cena N	16	18
+reklama tv N	10000	10000
+reklama int N	4000	4000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	25000
+udział	0	0.200803
+wynik firmy	0	72697.500000
+gotowka	300000	372697.500000
+wolumen N	25000	35000
+jakość N	55	55
+cena N	14	15
+reklama tv N	10000	10000
+reklama int N	4000	4000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	25000	35000
+udział	0.200803	0.245614
+wynik firmy	72697.500000	140234.368500
+gotowka	372697.500000	512931.870000
+wolumen N	35000	50000
+jakość N	55	55
+cena N	15	16
+reklama tv N	10000	10000
+reklama int N	4000	4000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	80000	140000
+udział	0.287253	0.343558
+wynik firmy	547334.865036	1095228.659718
+gotowka	1313769.130000	2408997.790000
+wolumen N	140000	0
+jakość N	40	0
+cena N	19	0
+reklama tv N	10000	10000
+reklama int N	4000	4000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	50000	80000
+udział	0.262467	0.287253
+wynik firmy	253502.388882	547334.865036
+gotowka	766434.260000	1313769.130000
+wolumen N	80000	140000
+jakość N	55	40
+cena N	18	19
+reklama tv N	10000	10000
+reklama int N	4000	4000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	211500	331500
+udział	0.267910	0.316916
+wynik firmy	1833661.105992	2650190.245938
+gotowka	4016931.830000	6667122.080000
+wolumen N	331500	0
+jakość N	50	0
+cena N	21	0
+reklama tv N	30000	30000
+reklama int N	10000	10000
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	30000	59796
+udział	0.235766	0.261064
+wynik firmy	268330.320000	558162.121752
+gotowka	568330.320000	1126492.440000
+wolumen N	60000	115000
+jakość N	53	55
+cena N	21	21
+reklama tv N	4000	10000
+reklama int N	1000	5000
+reklama mag N	1000	6000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	59796	115000
+udział	0.261064	0.271265
+wynik firmy	558162.121752	1056778.282584
+gotowka	1126492.440000	2183270.720000
+wolumen N	115000	211500
+jakość N	55	51
+cena N	21	21
+reklama tv N	10000	15000
+reklama int N	5000	7000
+reklama mag N	6000	7000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	115000	211500
+udział	0.271265	0.267910
+wynik firmy	1056778.282584	1833661.105992
+gotowka	2183270.720000	4016931.830000
+wolumen N	211500	351500
+jakość N	51	50
+cena N	21	21
+reklama tv N	15000	25000
+reklama int N	7000	10000
+reklama mag N	7000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	30000
+udział	0	0.235766
+wynik firmy	0	268330.320000
+gotowka	300000	568330.320000
+wolumen N	30000	30000
+jakość N	55	55
+cena N	21	21
+reklama tv N	4000	4000
+reklama int N	1000	1000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	70000	56997
+udział	0.288319	0.143267
+wynik firmy	599301.928926	426014.656524
+gotowka	1282017.340000	1708032
+wolumen N	130000	130000
+jakość N	50	50
+cena N	25	25
+reklama tv N	10000	10000
+reklama int N	4000	4000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	25000
+udział	0	0.183772
+wynik firmy	0	116202.600000
+gotowka	300000	416202.600000
+wolumen N	25000	25000
+jakość N	50	50
+cena N	16	16
+reklama tv N	10000	10000
+reklama int N	4000	4000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	40000	70000
+udział	0.180358	0.288319
+wynik firmy	266512.806360	599301.928926
+gotowka	682715.410000	1282017.340000
+wolumen N	70000	130000
+jakość N	50	50
+cena N	20	25
+reklama tv N	10000	10000
+reklama int N	4000	4000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	56997	105879
+udział	0.143267	0.158129
+wynik firmy	426014.656524	1008023.871150
+gotowka	1708032	2716055.870000
+wolumen N	130000	0
+jakość N	45	0
+cena N	22	0
+reklama tv N	10000	10000
+reklama int N	4000	4000
+reklama mag N	1000	1000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	69913	95421
+udział	0.173746	0.133254
+wynik firmy	470100.298104	768484.965834
+gotowka	1207705.440000	1976190.410000
+wolumen N	130000	130000
+jakość N	29	29
+cena N	21	21
+reklama tv N	40000	40000
+reklama int N	10500	10500
+reklama mag N	8000	8000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	29082
+udział	0	0.244578
+wynik firmy	0	191081.802600
+gotowka	300000	491081.800000
+wolumen N	32000	32000
+jakość N	20	20
+cena N	18	18
+reklama tv N	10000	10000
+reklama int N	7000	7000
+reklama mag N	7000	7000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	30000	40000
+udział	0.220527	0.180358
+wynik firmy	97200	132469.020000
+gotowka	397200	529669.020000
+wolumen N	40000	40000
+jakość N	35	35
+cena N	14	14
+reklama tv N	10000	10000
+reklama int N	17500	17500
+reklama mag N	8000	8000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	12500
+udział	0	0.100402
+wynik firmy	0	11870.550000
+gotowka	300000	311870.550000
+wolumen N	12500	12500
+jakość N	80	80
+cena N	14	14
+reklama tv N	10000	10000
+reklama int N	4500	4500
+reklama mag N	5000	5000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	22500	27500
+udział	0.118110	0.098743
+wynik firmy	26891.039178	33183.898722
+gotowka	320646.270000	353830.170000
+wolumen N	27500	32500
+jakość N	50	70
+cena N	11.500000	11.500000
+reklama tv N	5000	5000
+reklama int N	3500	3500
+reklama mag N	3000	3000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	24692
+udział	0	0.196484
+wynik firmy	0	149166.684000
+gotowka	300000	449166.680000
+wolumen N	35000	35000
+jakość N	10	10
+cena N	18	18
+reklama tv N	10000	10000
+reklama int N	5500	5500
+reklama mag N	3000	3000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	45076	69913
+udział	0.215018	0.173746
+wynik firmy	288438.457248	470100.298104
+gotowka	737605.140000	1207705.440000
+wolumen N	85000	85000
+jakość N	14	14
+cena N	18	18
+reklama tv N	40000	40000
+reklama int N	10500	10500
+reklama mag N	10000	10000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	24692	45076
+udział	0.196484	0.215018
+wynik firmy	149166.684000	288438.457248
+gotowka	449166.680000	737605.140000
+wolumen N	55000	55000
+jakość N	10	10
+cena N	17	17
+reklama tv N	10000	10000
+reklama int N	5500	5500
+reklama mag N	3000	3000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	46061	87000
+udział	0.196650	0.197419
+wynik firmy	315175.190130	615526.629714
+gotowka	806256.990000	1421783.620000
+wolumen N	87000	152000
+jakość N	25	25
+cena N	18	18
+reklama tv N	40000	50000
+reklama int N	10000	8000
+reklama mag N	19000	20000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	10000	20000
+udział	0.217387	0.204080
+wynik firmy	71477.316000	70899.373548
+gotowka	304868.180000	375767.550000
+wolumen N	20000	20000
+jakość N	60	60
+cena N	15	15
+reklama tv N	10000	10000
+reklama int N	500	500
+reklama mag N	2000	2000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	42444	75000
+udział	0.100118	0.095003
+wynik firmy	281516.824350	489333.769002
+gotowka	827346.070000	1316679.840000
+wolumen N	75000	125000
+jakość N	50	50
+cena N	19	19.900000
+reklama tv N	100000	110000
+reklama int N	13000	14000
+reklama mag N	16000	17000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	95421	130942
+udział	0.133254	0.109430
+wynik firmy	768484.965834	996468.030126
+gotowka	1976190.410000	2972658.440000
+wolumen N	200000	0
+jakość N	30	0
+cena N	22	0
+reklama tv N	60000	60000
+reklama int N	12500	12500
+reklama mag N	11000	11000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	10000
+udział	0	0.217387
+wynik firmy	0	71477.316000
+gotowka	300000	304868.180000
+wolumen N	10000	10000
+jakość N	60	60
+cena N	12	12
+reklama tv N	10000	10000
+reklama int N	500	500
+reklama mag N	2000	2000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	17500	22500
+udział	0.122807	0.118110
+wynik firmy	-18115.316270	26891.039178
+gotowka	293755.230000	320646.270000
+wolumen N	22500	22500
+jakość N	60	60
+cena N	12	12
+reklama tv N	5000	5000
+reklama int N	3500	3500
+reklama mag N	3000	3000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	20000	20000
+udział	0.204080	0.159999
+wynik firmy	70899.373548	54425.562930
+gotowka	375767.550000	430193.110000
+wolumen N	20000	20000
+jakość N	80	80
+cena N	15	15
+reklama tv N	10000	10000
+reklama int N	1500	1500
+reklama mag N	2000	2000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	31763	42444
+udział	0.138675	0.100118
+wynik firmy	169874.422938	281516.824350
+gotowka	545829.250000	827346.070000
+wolumen N	50000	50000
+jakość N	30	30
+cena N	20	20
+reklama tv N	70000	70000
+reklama int N	10000	10000
+reklama mag N	16000	16000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	152000	241075
+udział	0.186487	0.179493
+wynik firmy	1064775.955932	1739434.945338
+gotowka	2486559.580000	4225994.530000
+wolumen N	252000	0
+jakość N	25	0
+cena N	19	0
+reklama tv N	0	0
+reklama int N	4000	4000
+reklama mag N	30000	30000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	20000	35000
+udział	0.159999	0.225805
+wynik firmy	54425.562930	43999.675146
+gotowka	430193.110000	474192.790000
+wolumen N	35000	35000
+jakość N	80	80
+cena N	13	13
+reklama tv N	10000	10000
+reklama int N	3500	3500
+reklama mag N	6000	6000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	70000	100000
+udział	0.175951	0.149349
+wynik firmy	198769.449258	377079.744528
+gotowka	870342.480000	1247422.220000
+wolumen N	100000	0
+jakość N	10	0
+cena N	13	0
+reklama tv N	40000	40000
+reklama int N	10500	10500
+reklama mag N	8000	8000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	4	5
+sprzedaż	50000	70000
+udział	0.205942	0.175951
+wynik firmy	141904.014372	198769.449258
+gotowka	671573.030000	870342.480000
+wolumen N	70000	70000
+jakość N	30	30
+cena N	13	13
+reklama tv N	40000	40000
+reklama int N	10500	10500
+reklama mag N	8000	8000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	27500	32500
+udział	0.098743	0.079755
+wynik firmy	33183.898722	22600.466262
+gotowka	353830.170000	376430.640000
+wolumen N	32500	0
+jakość N	70	0
+cena N	11.500000	0
+reklama tv N	5000	5000
+reklama int N	3500	3500
+reklama mag N	3000	3000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	75000	125000
+udział	0.095003	0.119501
+wynik firmy	489333.769002	948948.040224
+gotowka	1316679.840000	2265627.880000
+wolumen N	125000	0
+jakość N	50	0
+cena N	19.900000	0
+reklama tv N	110000	110000
+reklama int N	14000	14000
+reklama mag N	17000	17000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	3	4
+sprzedaż	40000	50000
+udział	0.180358	0.205942
+wynik firmy	132469.020000	141904.014372
+gotowka	529669.020000	671573.030000
+wolumen N	50000	50000
+jakość N	40	40
+cena N	13.500000	13.500000
+reklama tv N	30000	30000
+reklama int N	10500	10500
+reklama mag N	8000	8000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	1	2
+sprzedaż	0	29082
+udział	0	0.244578
+wynik firmy	0	191081.802600
+gotowka	300000	491081.800000
+wolumen N	32000	47000
+jakość N	20	30
+cena N	18	19
+reklama tv N	10000	50000
+reklama int N	7000	11000
+reklama mag N	7000	16000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	5	6
+sprzedaż	35000	35000
+udział	0.225805	0.175879
+wynik firmy	43999.675146	42376.419594
+gotowka	474192.790000	516569.210000
+wolumen N	35000	0
+jakość N	90	0
+cena N	14	0
+reklama tv N	10000	10000
+reklama int N	4500	4500
+reklama mag N	6000	6000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
+runda	2	3
+sprzedaż	12500	17500
+udział	0.100402	0.122807
+wynik firmy	11870.550000	-18115.316270
+gotowka	311870.550000	293755.230000
+wolumen N	17500	17500
+jakość N	100	100
+cena N	14	14
+reklama tv N	10000	10000
+reklama int N	4500	4500
+reklama mag N	4000	4000
+wolumen L	0	0
+jakość L	0	0
+cena L	0	0
+reklama tv L	0	0
+reklama int L	0	0
+reklama mag L	0	0
