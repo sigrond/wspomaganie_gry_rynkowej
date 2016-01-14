@@ -33,7 +33,7 @@ int main()
 		else
 			i=4;
 
-		cout << "cena: 22" << endl;
+		cout << "cena: 21,50" << endl;
 		cout << "jakość: " << quality << endl;
 
 		wolumen = 0;
@@ -86,7 +86,7 @@ long double calcCost( unsigned quality, unsigned amount )
 	if( y < 0 )
 		y = -y;
 
-	return 13.47 + (0.0618182 + (0.000528505 + (0.0000123155 + (7.881216494259816e-8 + 
+	return 13.47 + (0.0618182 + (0.000528505 + (0.0000123155 + (7.881216494259816e-8 +
 	       1.1592739463427665e-10 * (-80 + x)) * (-20 + x)) * (-60 + x)) * (-1 + x)) * (-100 + x)
                + y * (1.0/(double)divider) - 0.4;
 
