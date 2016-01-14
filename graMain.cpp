@@ -2,6 +2,8 @@
 
 using namespace std;
 
+long double calcCost( unsigned quality, unsigned amount );
+
 int main()
 {
 	double kasa;
@@ -12,11 +14,14 @@ int main()
 								9.85,//1700000
 								10.95//3270000
 								};
-	double wolumen;
+	unsigned wolumen = 0;
+	unsigned quality = 55;
+
 	while(true)
 	{
 		cout<<"podaj ilość gotówki"<<endl;
 		cin>>kasa;
+		
 		if(kasa<400000)
 			i=0;
 		else if(kasa<700000)
@@ -27,10 +32,29 @@ int main()
 			i=3;
 		else
 			i=4;
-		cout<<"cena: 22"<<endl;
-		cout<<"jakość: 55"<<endl;
-		wolumen=kasa/koszt_jednostkowy[i];
-		cout<<"wolumen: "<<wolumen<<endl;
+		
+		cout << "cena: 22" << endl;
+		cout << "jakość: " << quality << endl;
+
+		long double totalCost = 0;
+		unsigned prevWolumen = 0;
+		long double unitCost;
+
+		while( totalCost < kasa )
+		{
+			prevWolumen = wolumen;
+			wolumen += 10;
+			unitCost = calcCost( quality, wolumen );
+			totalCost = unitCost * wolumen;	
+		}
+
+		// wolumen=kasa/koszt_jednostkowy[i];
+		
+		wolumen = prevWolumen;
+
+		cout << "unitCost: " << unitCost << endl;
+
+		cout << "wolumen: " << wolumen << endl;
 	}
 
 	return 0;
