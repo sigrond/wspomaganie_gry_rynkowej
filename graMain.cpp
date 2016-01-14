@@ -35,3 +35,32 @@ int main()
 
 	return 0;
 }
+
+long double calcCost( unsigned quality, unsigned amount )
+{
+	const long divider = 130000;
+	const long offset  = 65000;
+
+	const long double a1   = 3.09674 * 1e-11;
+	const long double a2   = 7.67286 * 1e-8;
+	const long double a3   = 0.000015697;
+	const long double a4   = 0.000263867;
+	const long double a5   = 0.0618182;
+	const long double a6   = 13.05;
+
+	const long b1      = 21;
+	const long b2      = 81;
+	const long b3      = 41;
+	const long b4      = 1;
+	const long b5      = 100;
+
+	long x = quality;
+
+	long y = amount - offset;
+
+	if( y < 0 )
+		y = -y;
+
+
+	return ( ( ( ( a1 * (x-b1) + a2 ) * (x-b2) + a3) * (x-b3) + a4 ) * (x-b4) + a5) * (x-b5) + a6 + y * (1.0/(double)divider);
+}
