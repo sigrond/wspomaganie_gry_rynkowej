@@ -1,61 +1,52 @@
-#include<iostream>
+#include <iostream>
+#include <fstream>
+#include <map>
+#include <string>
+#include <sstream>
+#include <functional>
 
 using namespace std;
 
-long double calcCost( unsigned quality, unsigned amount );
+void        calcParams ( unsigned & quality, double & price );
+long double calcCost   ( unsigned   quality, unsigned amount );
 
 int main()
 {
-	double kasa;
-	int i=0;
-	double koszt_jednostkowy[]={9.83,//kasa ~ 300000
-								9.49,//kasa ~ 510000
-								9.44,//900000
-								9.85,//1700000
-								10.95//3270000
-								};
-	unsigned wolumen = 0;
-	unsigned quality = 55;
+	unsigned quality;
+	double   price;
+	double   cash;
+	unsigned quantity = 0;
+	
+	calcParams( quality, price );
 
 	while(true)
 	{
-		cout<<"podaj ilość gotówki"<<endl;
-		cin>>kasa;
+		cout << "Podaj ilość gotówki (ujemna by wyjść):" << endl;
+		cin >> cash;
+	
+		if( cash < 0 )
+			return 0;	
 		
-		if(kasa<400000)
-			i=0;
-		else if(kasa<700000)
-			i=1;
-		else if(kasa<1300000)
-			i=2;
-		else if(kasa<2485000)
-			i=3;
-		else
-			i=4;
-		
-		cout << "cena: 22" << endl;
-		cout << "jakość: " << quality << endl;
+		quantity = 0;
 
-		wolumen = 0;
-		long double totalCost = 0;
-		unsigned prevWolumen = 0;
-		long double unitCost = 0;
+		long double totalCost   = 0;
+		unsigned    prevWolumen = 0;
+		long double unitCost    = 0;
 
-		while( totalCost < kasa )
+		while( totalCost < cash )
 		{
-			prevWolumen = wolumen;
-			wolumen += 10;
-			unitCost = calcCost( quality, wolumen );
-			totalCost = unitCost * wolumen;	
+			prevWolumen = quantity;
+			quantity   += 10;
+			unitCost    = calcCost( quality, quantity );
+			totalCost   = unitCost * quantity;	
 		}
-
-		// wolumen=kasa/koszt_jednostkowy[i];
 		
-		wolumen = prevWolumen;
+		quantity = prevWolumen;
 
-		cout << "unitCost: " << unitCost << endl;
+		cout << "Ilość:  " << quantity << endl;
+		cout << "Cena:   " << price << endl;
+		cout << "Jakość: " << quality << endl;
 
-		cout << "wolumen: " << wolumen << endl;
 	}
 
 	return 0;
@@ -65,22 +56,8 @@ long double calcCost( unsigned quality, unsigned amount )
 {
 	const long divider = 130000;
 	const long offset  = 65000;
-/*
-	const long double a1   = 3.09674 * 1e-11;
-	const long double a2   = 7.67286 * 1e-8;
-	const long double a3   = 0.000015697;
-	const long double a4   = 0.000263867;
-	const long double a5   = 0.0618182;
-	const long double a6   = 13.05;
-
-	const long b1 = 21;
-	const long b2 = 81;
-	const long b3 = 41;
-	const long b4 = 1;
-	const long b5 = 100;
-*/
+	
 	long x = quality;
-
 	long y = amount - offset;
 
 	if( y < 0 )
@@ -89,6 +66,68 @@ long double calcCost( unsigned quality, unsigned amount )
 	return 13.47 + (0.0618182 + (0.000528505 + (0.0000123155 + (7.881216494259816e-8 + 
 	       1.1592739463427665e-10 * (-80 + x)) * (-20 + x)) * (-60 + x)) * (-1 + x)) * (-100 + x)
                + y * (1.0/(double)divider) - 0.4;
+}
 
-	// return ( ( ( ( a1 * (x-b1) + a2 ) * (x-b2) + a3) * (x-b3) + a4 ) * (x-b4) + a5) * (x-b5) + a6 + y * (1.0/(double)divider);
+void calcParams ( unsigned & quality, double & price )
+{
+	ifstream in ("data");
+
+	std::map<double, unsigned, greater<double> > qMap;
+	std::map<double, double, greater<double> >   pMap;
+
+	std::string str;
+
+	double   cashStart;
+	double   cashEnd;
+	double   ratio;
+	unsigned q;
+	double   p;
+
+	while( !in.eof() )
+	{
+		{
+			getline(in, str);
+			std::stringstream stream (str);
+
+			stream >> cashStart;
+			stream >> cashEnd;
+		}
+
+		{
+			getline(in,str);
+			std::stringstream stream (str);
+			stream >> q;
+		}
+
+		{
+			getline(in, str);
+			std::stringstream stream (str);
+			stream >> p;
+		}
+
+		ratio = cashEnd/cashStart;
+
+		qMap[ratio] = q;
+
+		pMap[ratio] = p;
+	}
+
+	std::map<double, unsigned, greater<double> >::iterator qit = qMap.begin();
+	std::map<double, double, greater<double> >::iterator   pit = pMap.begin();
+
+	unsigned qSum = 0;
+	double   pSum = 0.0;
+
+	for(int i = 0; i<10; ++i)
+	{
+		qSum += qit->second;
+		pSum += pit->second;
+
+		++qit;
+		++pit;
+	}
+
+	quality = qSum/10.0;
+	price   = pSum/10.0;
+
 }
