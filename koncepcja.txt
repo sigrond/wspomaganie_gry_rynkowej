@@ -1,0 +1,7 @@
+ok
+cenę i jakość obliczam następująco: wczytuję dane z rund z dawnych rozgrywek (było ich chyba około 200), szereguję je według stosunku kasa_na_wyjściu / kasa_na_wejściu, wybieram 10 najlepszych i uśredniam wyniki
+
+koszt jednostkowy: liczę go funkcją uzyskaną poprzez interpolację wielomianową zebranych wcześniej danych
+jako, że zależy on od liczby produktów, liczę go przyrostowo, dodając w każdej pętli 10 produktów, dopóki koszt całkowity mieści się w budżecie
+
+na wszelkie zarzuty odnośnie metodyki obliczania danych można odpowiedzieć, że działa i robi pieniądze
